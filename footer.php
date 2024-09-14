@@ -16,8 +16,8 @@
 </head>
 <body>
   <div id="footer" >
-  <b><center>COPYRIGHT © 2020<br>
-  Blood Bank & Donation Management
+  <b><center>Made with love by<br>
+ Skillfull Engineers 
   <br>
   ALL RIGHTS RESERVED.
   </center>
